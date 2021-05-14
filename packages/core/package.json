@@ -2,7 +2,7 @@
   "name": "@flair/core",
   "peerDependencies": {
     "@types/react": "^16.8.0",
-    "react": "^16.8.0"
+    "react": "^16.8.0 || ^17.0.0"
   },
   "dependencies": {
     "color2k": "1.0.0-rc.5",
