@@ -1,7 +1,7 @@
 {
   "name": "@flair/core",
   "peerDependencies": {
-    "@types/react": "^16.8.0",
+    "@types/react": "^16.8.0 || ^17.0.0",
     "react": "^16.8.0"
   },
   "dependencies": {
