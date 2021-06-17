@@ -3,12 +3,12 @@
   "dependencies": {
     "@types/classnames": "2.2.10",
     "classnames": "2.2.6",
-    "uid": "1.0.0",
+    "uid": "2.0.0",
     "stylis": "3.5.4",
     "@babel/runtime": "7.9.6"
   },
   "peerDependencies": {
-    "@types/react": "^16.8.0",
+    "@types/react": "^16.8.0 || ^17.0.0",
     "react": "^16.8.0"
   },
   "private": true
